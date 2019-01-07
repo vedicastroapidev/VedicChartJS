@@ -1,4 +1,4 @@
-const chart = (newjson)=>{
+module.exports = (newjson)=>{
     var house = ["", "", "", "", "", "", "", "", "", "", "", ""], rasi = ["", "", "", "", "", "", "", "", "", "", "", ""]
 
     for (var key in newjson) {
