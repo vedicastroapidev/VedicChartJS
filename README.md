@@ -1,10 +1,12 @@
 # VedicChartJS
 Javascript code that outputs a html string with given vedicastroapi JSON as input
+This can be used to display Kundli charts or Jathaka Kattam
+Available in both North Indian and South Indian styles
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-# Works for only spceific API
+# Works for only spceific requests  in vedicastroAPI
  - Vedic Horoscope API
  - Divisional Charts API
  
